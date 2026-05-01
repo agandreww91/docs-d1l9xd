@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fxciup.affordablehealthcoverage.online/sitemap.xml
